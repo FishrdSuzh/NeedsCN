@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="NeedsCN" modversion="1.0.1" corepackage="False" steamworkshopid="2933343946" gameversion="0.21.6.0">
+  <Text file="%ModDir%/Simplified Chinese.xml" />
+</contentpackage>
