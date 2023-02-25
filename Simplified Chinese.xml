@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+  <!--Skills and Jobs-->
+  <jobname.chef_needs>厨师Chef</jobname.chef_needs>
+  <jobdescription.chef_needs>Chef是一名专业厨师，有他在船员肯定能吃饱饭。</jobdescription.chef_needs>
+  <skillname.cooking>烹饪</skillname.cooking>
   <!--Items-->
   <entityname.watercanteen>水壶</entityname.watercanteen>
   <entitydescription.watercanteen>一只牢固的水壶，用于储存你珍贵的纯净水。</entitydescription.watercanteen>
@@ -11,6 +15,82 @@
   <entitydescription.cookingstation_needs>一个全方位的厨房用具，让你烹饪各种各样的食物。足够轻，可以移动到其他地方。</entitydescription.cookingstation_needs>
   <entityname.portablestove>便携式炉灶</entityname.portablestove>
   <entitydescription.portablestove>一种用于烹饪简单食谱的小电炉。</entitydescription.portablestove>
+  <entityname.refrigerator>冰箱</entityname.refrigerator>
+  <entitydescription.refrigerator>肉类和饮料存在里面不会腐坏。</entitydescription.refrigerator>
+  <entityname.boombox_needs>手提音响</entityname.boombox_needs>
+  <entitydescription.boombox_needs>这是一款装有强力磁铁且完全防水的无线音乐播放器，让您可以在任何地方听任何歌曲！</entitydescription.boombox_needs>
+  <entityname.chefcap>厨师帽</entityname.chefcap>
+  <entitydescription.chefcap>告诉他们，谁才是厨师！</entitydescription.chefcap>
+  <entityname.chefuniform>厨师制服</entityname.chefuniform>
+  <entitydescription.chefuniform>木卫二上许多厨师都在穿的舒适、防火制服。</entitydescription.chefuniform>
+  <entityname.fryingpan_needs>平底锅</entityname.fryingpan_needs>
+  <entitydescription.fryingpan_needs>一种双手版的强有力的传统炒锅，用于烹饪多种菜肴。</entitydescription.fryingpan_needs>
+  <entityname.kitchenknife_needs>厨师刀</entityname.kitchenknife_needs>
+  <entitydescription.kitchenknife_needs>厨房里最常用的工具，非常锋利。</entitydescription.kitchenknife_needs>
+  <entityname.meatcleaver_needs>绞肉机</entityname.meatcleaver_needs>
+  <entitydescription.meatcleaver_needs>他强有力的刀片，几次搅拌即可粉碎肉和骨头。用它屠宰尸体吧！</entitydescription.meatcleaver_needs>
+  <entityname.cookingpot>烹饪锅</entityname.cookingpot>
+  <entitydescription.cookingpot>用于许多烹饪食谱，身边总得有一个！</entitydescription.cookingpot>
+  <entityname.handblender>手动搅拌机</entityname.handblender>
+  <entitydescription.handblender>一种小的厨房工具，用于研磨、混合和打碎多种配料。</entitydescription.handblender>
+  <!--Cooking Ingredients-->
+  <entityname.chocolate>巧克力</entityname.chocolate>
+  <entitydescription.chocolate>甜甜的黑巧克力</entitydescription.chocolate>
+  <entityname.flour>面粉</entityname.flour>
+  <entitydescription.flour>面包店经常使用</entitydescription.flour>
+  <entityname.milk>牛奶</entityname.milk>
+  <entitydescription.milk>产自大豆而非真正的牛</entitydescription.milk>
+  <entityname.salt>食盐</entityname.salt>
+  <entitydescription.salt>很咸很咸</entitydescription.salt>
+  <entityname.spice>香料</entityname.spice>
+  <entitydescription.spice>辣椒粉</entitydescription.spice>
+  <entityname.wine>葡萄酒</entityname.wine>
+  <entitydescription.wine>还得看法国人</entitydescription.wine>
+  <!--Seed Products-->
+  <entityname.apple>苹果</entityname.apple>
+  <entitydescription.apple>水果之王</entitydescription.apple>
+  <entityname.cacao>可可</entityname.cacao>
+  <entitydescription.cacao>磨碎它，你会得到一些甜巧克力！</entitydescription.cacao>
+  <entityname.carot>胡萝卜</entityname.carot>
+  <entitydescription.carot>别纠结：他是橙色但不是橙子</entitydescription.carot>
+  <entityname.coffeebeen>咖啡豆</entityname.coffeebeen>
+  <entitydescription.coffeebeen>碾碎后，放在锅里煮，瞧！一锅温咖啡。</entitydescription.coffeebeen>
+  <entityname.grape>葡萄</entityname.grape>
+  <entitydescription.grape>一种美妙的水果，甜而微酸。</entitydescription.grape>
+  <entityname.orange>橘子</entityname.orange>
+  <entitydescription.orange>这是一个橘子</entitydescription.orange>
+  <entityname.potato>土豆</entityname.potato>
+  <entitydescription.potato>经过基因改造，能够在藤蔓和树上生长，令人惊叹的技术！</entitydescription.potato>
+  <entityname.soja>大豆</entityname.soja>
+  <entitydescription.soja>可以从中提取出牛奶</entitydescription.soja>
+  <entityname.spicefruit>香辛果</entityname.spicefruit>
+  <entitydescription.spicefruit>别尝试直接吃它</entitydescription.spicefruit>
+  <entityname.strawberry>草莓</entityname.strawberry>
+  <entitydescription.strawberry>一种美味的水果，适合放在甜点里。</entitydescription.strawberry>
+  <entityname.tomato>番茄</entityname.tomato>
+  <entitydescription.tomato>很多人认为把水果放在披萨上很奇怪，但番茄也是水果！</entitydescription.tomato>
+  <entityname.vanillaflower>香草花</entityname.vanillaflower>
+  <entitydescription.vanillaflower>虽然名字叫香草(Vanilla)，但很明显来自mod</entitydescription.vanillaflower>
+  <entityname.weedleaf>杂草</entityname.weedleaf>
+  <entitydescription.weedleaf>我想知道它为什么要长这么大</entitydescription.weedleaf>
+  <entityname.wheat>小麦</entityname.wheat>
+  <entitydescription.wheat>即使在宇宙中，我们也有小麦。</entitydescription.wheat>
+  <!--Seeds-->
+  <entityname.appleseed>苹果种子</entityname.appleseed>
+  <entityname.cacaoseed>可可种子</entityname.cacaoseed>
+  <entityname.carotseed>胡萝卜种子</entityname.carotseed>
+  <entityname.coffeeseed>咖啡豆种子</entityname.coffeeseed>
+  <entityname.grapeseed>葡萄种子</entityname.grapeseed>
+  <entityname.orangeseed>橘子种子</entityname.orangeseed>
+  <entityname.potatoseed>土豆种子</entityname.potatoseed>
+  <entitydescription.potatoseed>太逼真了！</entitydescription.potatoseed>
+  <entityname.sojaseed>大豆种子</entityname.sojaseed>
+  <entityname.spiceseed>香料种子</entityname.spiceseed>
+  <entityname.strawberryseed>草莓种子</entityname.strawberryseed>
+  <entityname.tomatoseed>番茄种子</entityname.tomatoseed>
+  <entityname.vanillaseed>香草种子</entityname.vanillaseed>
+  <entityname.weedseed>杂草种子</entityname.weedseed>
+  <entityname.wheatseed>小麦种子</entityname.wheatseed>
   <!--Meat-->
   <entityname.rottedmeat>腐肉</entityname.rottedmeat>
   <entitydescription.rottedmeat>吃这个？想都别想！</entitydescription.rottedmeat>
@@ -31,25 +111,25 @@
   <entityname.threshermeat>虎尾煞肉</entityname.threshermeat>
   <entitydescription.threshermeat>到处都是神经！</entitydescription.threshermeat>
   <!--Cooked Meat-->
-  <entityname.cookedcrawlermeat>烤爬行者肉</entityname.cookedcrawlermeat>
+  <entityname.cookedcrawlermeat>烤爬行者肉排</entityname.cookedcrawlermeat>
   <entitydescription.cookedcrawlermeat>烹饪时闻起来很香，但尝起来。。。</entitydescription.cookedcrawlermeat>
-  <entityname.cookedhammerheadmeat>烤锤头煞肉</entityname.cookedhammerheadmeat>
+  <entityname.cookedhammerheadmeat>烤锤头鲨肉排</entityname.cookedhammerheadmeat>
   <entitydescription.cookedhammerheadmeat>这一定是牛排吧</entitydescription.cookedhammerheadmeat>
   <entityname.cookedhumanmeat>烤人肉</entityname.cookedhumanmeat>
   <entitydescription.cookedhumanmeat>炙烤不会改变他(她)曾经是人的事实</entitydescription.cookedhumanmeat>
   <entityname.cookedhuskedmeat>烤画皮肉</entityname.cookedhuskedmeat>
   <entitydescription.cookedhuskedmeat>至少它不会自己动了。</entitydescription.cookedhuskedmeat>
-  <entityname.cookedmolochmeat>烤摩洛克肉</entityname.cookedmolochmeat>
+  <entityname.cookedmolochmeat>烤摩洛克肉排</entityname.cookedmolochmeat>
   <entitydescription.cookedmolochmeat>口感甜美，但味道却不是那么好。</entitydescription.cookedmolochmeat>
-  <entityname.cookedspinelingmeat>烤棘刺肉</entityname.cookedspinelingmeat>
+  <entityname.cookedspinelingmeat>烤棘刺肉排</entityname.cookedspinelingmeat>
   <entitydescription.cookedspinelingmeat>当你拔掉所有的尖刺并烹饪时，非常嫩。</entitydescription.cookedspinelingmeat>
-  <entityname.cookedmudraptormeat>烤迅猛龙肉</entityname.cookedmudraptormeat>
+  <entityname.cookedmudraptormeat>烤迅猛龙肉排</entityname.cookedmudraptormeat>
   <entitydescription.cookedmudraptormeat>你刚刚烤的时候完美的保留了它的风味</entitydescription.cookedmudraptormeat>
-  <entityname.cookedthreshermeat>烤虎尾煞肉</entityname.cookedthreshermeat>
+  <entityname.cookedthreshermeat>烤虎尾煞肉排</entityname.cookedthreshermeat>
   <entitydescription.cookedthreshermeat>不，烤它不会让它更容易下咽，但味道变好了。</entitydescription.cookedthreshermeat>
   <!-- Canned Foods -->
   <entityname.tincan>锡罐</entityname.tincan>
-  <entitydescription.tincan>用于长达数年地保存食物。</entitydescription.tincan>
+  <entitydescription.tincan>用于数以年记地保存食物和膳食长达。</entitydescription.tincan>
   <entityname.cannedfood>罐装食物</entityname.cannedfood>
   <entitydescription.cannedfood>并不丰盛，但能填饱你的肚子。此外似乎不会过期，但别问是用什么做的……</entitydescription.cannedfood>
   <entityname.cannedcrawlermeat>罐装爬行者肉</entityname.cannedcrawlermeat>
